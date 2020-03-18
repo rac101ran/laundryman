@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">LaundryMan</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string-array name="Shirts">
+        <item>Zero</item>
+        <item>One</item>
+        <item>two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+        <item>Seven</item>
+        <item>Eight</item>
+        <item>Nine</item>
+    </string-array>
+    <string-array name="Pants">
+        <item>Zero</item>
+        <item>One</item>
+        <item>two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+        <item>Seven</item>
+        <item>Eight</item>
+        <item>Nine</item>
+
+    </string-array>
+    <string-array name="Others">
+
+        <item>Zero</item>
+        <item>One</item>
+        <item>two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+        <item>Seven</item>
+        <item>Eight</item>
+        <item>Nine</item>
+    </string-array>
+
+    <string-array name="academicinfo">
+        <item>Non student</item>
+        <item>Student</item>
+
+    </string-array>
+
+    <string-array name="Title">
+        <item>Ali hasan</item>
+        <item>Prakhar</item>
+        <item>defaultname3</item>
+        <item>defaultname4</item>
+        <item>defaultname5</item>
+        <item>defaultname6</item>
+        <item>defaultname7</item>
+        <item>defaultname8</item>
+        <item>defaultname9</item>
+    </string-array>
+    <string-array name="desc">
+        <item>he is the default laundryman</item>
+        <item>he is the default laundryman</item>
+        <item>he is the default laundryman</item>
+        <item>he is the default laundryman</item>
+        <item>he is the default laundryman</item>
+        <item>he is the default laundryman</item>
+        <item>he is the default laundryman</item>
+        <item>he is the default laundryman</item>
+        <item>he is the default laundryman</item>
+
+    </string-array>
+</resources>
