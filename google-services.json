@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "847418737005",
+    "firebase_url": "https://laundrymanfinal.firebaseio.com",
+    "project_id": "laundrymanfinal",
+    "storage_bucket": "laundrymanfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847418737005:android:ae813c0f64ffeca97eda64",
+        "android_client_info": {
+          "package_name": "com.example.laundryman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847418737005-51pvohe30fcpdqlh9159fiqb3f83fpvp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.laundryman",
+            "certificate_hash": "b8598b43ba3203385689d47eb8cb748e56293689"
+          }
+        },
+        {
+          "client_id": "847418737005-v4gri3sqo3j2eth2lu5h8qbj51e3ui37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOx5LeVOqKjbaioJevEc5Zb-wj9J4QEWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847418737005-v4gri3sqo3j2eth2lu5h8qbj51e3ui37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
